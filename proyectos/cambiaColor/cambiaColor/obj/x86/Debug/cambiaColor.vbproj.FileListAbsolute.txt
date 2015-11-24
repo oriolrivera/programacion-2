@@ -1,0 +1,9 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\bin\Debug\cambiaColor.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\bin\Debug\cambiaColor.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\bin\Debug\cambiaColor.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\cambiaColor\obj\x86\Debug\cambiaColor.pdb

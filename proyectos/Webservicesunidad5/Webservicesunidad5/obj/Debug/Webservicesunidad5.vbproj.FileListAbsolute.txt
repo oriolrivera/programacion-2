@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\bin\Webservicesunidad5.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\bin\Webservicesunidad5.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\bin\Webservicesunidad5.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\obj\Debug\Webservicesunidad5.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\obj\Debug\Webservicesunidad5.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\obj\Debug\Webservicesunidad5.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\obj\Debug\Webservicesunidad5.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Webservicesunidad5\Webservicesunidad5\obj\Debug\Webservicesunidad5.pdb

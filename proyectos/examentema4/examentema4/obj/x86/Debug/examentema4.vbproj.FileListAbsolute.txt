@@ -1,0 +1,9 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\bin\Debug\examentema4.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\bin\Debug\examentema4.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\bin\Debug\examentema4.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\examentema4\examentema4\obj\x86\Debug\examentema4.pdb

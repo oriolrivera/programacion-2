@@ -1,0 +1,16 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\bin\Debug\holamundo.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\holamundo\obj\x86\Debug\holamundo.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\obj\x86\Debug\holamundo.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\obj\x86\Debug\holamundo.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\obj\x86\Debug\holamundo.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\bin\Debug\holamundo.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\bin\Debug\holamundo.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\bin\Debug\holamundo.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\obj\x86\Debug\holamundo.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\holamundo\holamundo\obj\x86\Debug\holamundo.vbproj.GenerateResource.Cache

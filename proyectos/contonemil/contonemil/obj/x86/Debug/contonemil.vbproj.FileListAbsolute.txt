@@ -1,0 +1,18 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\bin\Debug\contonemil.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\bin\Debug\contonemil.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\bin\Debug\contonemil.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\contonemil\obj\x86\Debug\contonemil.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\bin\Debug\contonemil.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\bin\Debug\contonemil.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\bin\Debug\contonemil.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\contonemil\contonemil\obj\x86\Debug\contonemil.vbproj.GenerateResource.Cache

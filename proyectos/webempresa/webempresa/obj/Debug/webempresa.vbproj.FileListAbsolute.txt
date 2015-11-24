@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\bin\webempresa.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\bin\webempresa.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\bin\webempresa.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\obj\Debug\webempresa.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\obj\Debug\webempresa.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\obj\Debug\webempresa.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\obj\Debug\webempresa.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\webempresa\webempresa\obj\Debug\webempresa.pdb
